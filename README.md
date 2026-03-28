@@ -50,7 +50,7 @@
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belavenir21&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img src="https://stats.hyochan.dev/api/top-langs?username=belavenir21&layout=compact&hide_border=true" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=belavenir21)](https://solved.ac/belavenir21)
 
