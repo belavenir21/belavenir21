@@ -44,6 +44,7 @@
 |---------|------|----------|
 | [🍳 냉장고를 부탁해](https://github.com/belavenir21/PleaseTakeCareofMyRefrigerator) | 냉장고 식재료 관리 및 AI 레시피 추천 웹 서비스 | Vue.js, Django, Gemini |
 | [🥚 Eggit](https://github.com/belavenir21/eggit_front) | GitHub 활동 기반 성장형 개발자 블로그 플랫폼 | React, WebSocket, Zustand |
+| [👆 딸깍 비즈니스](https://github.com/belavenir21/ddalkkackbusiness_front) | 3D 경제 시뮬레이션 웹게임 | React Three Fiber, Three.js, Zustand |
 
 
 <br>
